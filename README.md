@@ -1,2 +1,2 @@
 # Bone-Fracture-Classification-using-Deep-Learning
-Bone Fracture Classification using Deep Learning
+Bone fractures are a common medical condition that requires accurate and timely diagnosis. Traditional diagnostic methods rely on radiologists to examine X-ray or CT scan images, which can be time-consuming and prone to human error. In this project, we develop a deep learning-based classification model to automate and improve the accuracy of fracture detection.
